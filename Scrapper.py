@@ -80,6 +80,13 @@ def Wikipedia():
 GsmArena()
 TutorialsPoint()
 Wikipedia()
+
+
+
+
+
+
+
 '''url=input("Enter the URL you want to scrap : ")
 
 Req=requests.get(url)
